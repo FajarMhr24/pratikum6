@@ -1,4 +1,4 @@
-# pratikum6 - sub rutin/funsi
+# pratikum6 - sub rutin/fungsi
 
 ```python
 while True:
